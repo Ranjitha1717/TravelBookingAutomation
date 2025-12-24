@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-23T18:47:26 IST" name="Default suite" finished-at="2025-12-23T18:47:48 IST" duration-ms="22516">
+    <groups>
+    </groups>
+    <test started-at="2025-12-23T18:47:26 IST" name="Default test" finished-at="2025-12-23T18:47:48 IST" duration-ms="22516">
+      <class name="com.travelbooking.tests.TravelBookingTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.travelbooking.tests.TravelBookingTest@24569dba]" started-at="2025-12-23T18:47:26 IST" name="setUp" finished-at="2025-12-23T18:47:36 IST" duration-ms="10157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="endToEndBookingTest()[pri:0, instance:com.travelbooking.tests.TravelBookingTest@24569dba]" started-at="2025-12-23T18:47:36 IST" name="endToEndBookingTest" finished-at="2025-12-23T18:47:42 IST" duration-ms="6102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndBookingTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.travelbooking.tests.TravelBookingTest@24569dba]" started-at="2025-12-23T18:47:42 IST" name="tearDown" finished-at="2025-12-23T18:47:43 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.travelbooking.tests.TravelBookingTest@24569dba]" started-at="2025-12-23T18:47:43 IST" name="setUp" finished-at="2025-12-23T18:47:45 IST" duration-ms="2340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchFlightTest()[pri:0, instance:com.travelbooking.tests.TravelBookingTest@24569dba]" started-at="2025-12-23T18:47:45 IST" name="searchFlightTest" finished-at="2025-12-23T18:47:47 IST" duration-ms="2603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlightTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.travelbooking.tests.TravelBookingTest@24569dba]" started-at="2025-12-23T18:47:47 IST" name="tearDown" finished-at="2025-12-23T18:47:48 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.travelbooking.tests.TravelBookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
